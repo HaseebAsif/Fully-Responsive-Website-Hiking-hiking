@@ -38,7 +38,7 @@ header {
   overflow: hidden;
   z-index: 10;
 }
-body.open header{
+body.open header {
   position: fixed;
 }
 .container {
@@ -188,7 +188,8 @@ nav ul li a:active {
 }
 .box {
   width: 30rem;
-  height: 40rem;
+  padding-bottom: 45px;
+  height: 100%;
   margin: 0 auto;
   position: relative;
 }
